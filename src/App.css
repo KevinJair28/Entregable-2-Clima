@@ -17,6 +17,7 @@ video{
 .weather {
     width: 400px;
     position: absolute;
+    text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -69,7 +70,7 @@ video{
 }*/
 
 button{
-    width: 100px;
+    width: 110px;
     height: 30px;
     margin-top: 15px;
     border-radius: 5px;
